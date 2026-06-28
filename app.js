@@ -3,7 +3,7 @@ const surprise = document.getElementById('surprise');
 const btnYes = document.getElementById('btn-yes');
 const btnNo = document.getElementById('btn-no');
 
-const WHATSAPP_URL = "https://api.whatsapp.com/send/?phone=%2B584246941333&text=Sebastian%20te%20perdono&type=phone_number&app_absent=0";
+const WHATSAPP_URL = "https://api.whatsapp.com/send/?phone=%2B584246941333&text=Sebastian%20te%20perdono&type=phone_number&app_absent=0&wame_ctl=1";
 
 // ---------- Corazones flotantes de fondo ----------
 function createHearts() {
